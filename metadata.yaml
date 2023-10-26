@@ -1,0 +1,24 @@
+_repo: Pienia-kertomuksia_71852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Häggblom, Otto
+    gutenberg_agent_id: '56426'
+    url: http://www.gutenberg.org/2009/agents/56426
+description: ''
+gutenberg_issued: '2023-10-11'
+identifiers:
+  gutenberg: '71852'
+language: fi
+pgterms:marc905: 20180405010728tuomi
+pgterms:marc906: '1893'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pieniä kertomuksia
+url: http://www.gutenberg.org/ebooks/71852
