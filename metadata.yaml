@@ -1,11 +1,16 @@
 _repo: Pienia-kertomuksia_71852
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Häggblom, Otto
     gutenberg_agent_id: '56426'
     url: http://www.gutenberg.org/2009/agents/56426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71852#Pienia-kertomuksia
 gutenberg_issued: '2023-10-11'
 identifiers:
   gutenberg: '71852'
